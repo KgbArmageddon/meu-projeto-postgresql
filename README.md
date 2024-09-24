@@ -4,6 +4,7 @@ Disciplinas: Banco de Dados e Computação em Nuvem
 Instituição Parceira: Centro Estadual de Convivência da Família 31 de Março - Manaus, Amazonas
 Responsavel: Vivian San. Danielle e Diretoria. 
 Modo: Remoto
+Condição dada pela diretoria: Preservar os dados dos usuarios para que não sejam divulgados ao publico, pois constam informações pessoais. 
 
 Descrição do Projeto
 Este projeto tem como objetivo a implementação de um sistema de banco de dados relacional utilizando PostgreSQL e a configuração de um ambiente de Computação em Nuvem para armazenar e gerenciar os dados dos usuários do Centro Estadual de Convivência da Família 31 de Março. Atualmente, esses dados estão armazenados em planilhas de Excel, o que acarreta riscos de perda e ineficiência na gestão.
